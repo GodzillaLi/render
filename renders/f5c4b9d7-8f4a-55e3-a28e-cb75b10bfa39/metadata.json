@@ -1,0 +1,70 @@
+{
+  "animation_count": 2,
+  "armature_count": 1,
+  "edge_count": 12730,
+  "file_identifier": "https://github.com/ishikawa-yuuki/Fall_Guys/blob/eeabf8962fcc9b11a62f231c1de4c751b91138ee/Game/Assets/Develop/Ihara/kiiro/Running (1).fbx",
+  "file_size": 1108752,
+  "lamp_count": 1,
+  "linked_files": [
+    "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kihada.png",
+    "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kiiro1.png",
+    "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kiiro.png"
+  ],
+  "material_count": 7,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "ishikawa-yuuki",
+    "github_repo": "Fall_Guys"
+  },
+  "missing_textures": {
+    "count": 7,
+    "file_path_to_color": {
+      "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kihada.png": [
+        0.9917865239056792,
+        0.43251202674830136,
+        0.5280513406372326,
+        1
+      ],
+      "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kiiro.png": [
+        0.031403267764860354,
+        0.3660998887562691,
+        0.9803502529523206,
+        1
+      ],
+      "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kiiro1.png": [
+        0.4806501768117173,
+        0.453753340163776,
+        0.030116580584605535,
+        1
+      ]
+    },
+    "files": [
+      "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kiiro.png",
+      "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kiiro.png",
+      "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kiiro.png",
+      "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kiiro1.png",
+      "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kiiro.png",
+      "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kihada.png",
+      "/tmp/tmpn4p1iax4/Fall_Guys/Game/Assets/Develop/Ihara/kiiro/C:/Users/GC1834/Desktop/sotukenn/Fall_Guys/Game/Assets/Develop/Ihara/textures/kihada.png"
+    ]
+  },
+  "object_count": 5,
+  "poly_count": 8468,
+  "random_color": null,
+  "save_uid": "f5c4b9d7-8f4a-55e3-a28e-cb75b10bfa39",
+  "scene_size": {
+    "bbox_max": [
+      3.0488016605377197,
+      3.647404193878174,
+      6.060711860656738
+    ],
+    "bbox_min": [
+      -4.153736591339111,
+      1.2927751541137695,
+      -0.009982619434595108
+    ]
+  },
+  "sha256": "526d97abedfeea05c8a49d06f8eb84afc3b74c5668e8c190f46dea1abca163cf",
+  "shape_key_count": 0,
+  "vert_count": 4278
+}

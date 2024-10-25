@@ -1,0 +1,41 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 523,
+  "file_identifier": "https://github.com/raf-lf/TrapdoorHero/blob/2d78301ed5281ce42c4259679a51d27d3dd3b9da/Assets/Graphics/Meshes/Items/flag2.fbx",
+  "file_size": 22576,
+  "lamp_count": 1,
+  "linked_files": [
+    "/tmp/tmpf_mmn1i0/TrapdoorHero/Assets/Graphics/Meshes/Items/mesh_items.png"
+  ],
+  "material_count": 1,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "raf-lf",
+    "github_repo": "TrapdoorHero"
+  },
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 4,
+  "poly_count": 178,
+  "random_color": null,
+  "save_uid": "887d630b-2c01-54e5-98e0-dfe5dd83de6d",
+  "scene_size": {
+    "bbox_max": [
+      5.600000381469727,
+      14.800000190734863,
+      4.500000476837158
+    ],
+    "bbox_min": [
+      3.200000047683716,
+      14.399999618530273,
+      0.29999998211860657
+    ]
+  },
+  "sha256": "35fec3cd63121985fffb13f51955223ab67c67fad78cdec36feb4087aa641238",
+  "shape_key_count": 0,
+  "vert_count": 256
+}

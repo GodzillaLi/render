@@ -1,0 +1,44 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 12474,
+  "file_identifier": "https://github.com/hstarmans/rotorbalancer/blob/7b7d24915e157335320b43085016d6d92906e491/caddesigns/Arduino_Nano_Holder/files/Arduino_Nano_Holder.stl",
+  "file_size": 415884,
+  "lamp_count": 1,
+  "linked_files": [],
+  "material_count": 0,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "hstarmans",
+    "github_repo": "rotorbalancer"
+  },
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 4,
+  "poly_count": 8316,
+  "random_color": [
+    0.11763133022720984,
+    0.5299775643846132,
+    0.974189520453364,
+    1
+  ],
+  "save_uid": "fd0ceea1-d542-5408-8f27-e65dba8dc013",
+  "scene_size": {
+    "bbox_max": [
+      45.70000076293945,
+      2.0,
+      48.978179931640625
+    ],
+    "bbox_min": [
+      -2.0,
+      -19.899999618530273,
+      33.0
+    ]
+  },
+  "sha256": "fa05d725450cee08bc31396942ef9ea56d70b90605168be80976f07fd14ff685",
+  "shape_key_count": 0,
+  "vert_count": 4160
+}

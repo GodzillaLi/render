@@ -1,0 +1,39 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 992,
+  "file_identifier": "https://github.com/clink10Zero/GameEngine/blob/4cc4c31c01ea2025c3c88b5f0388b02c46490dc0/models/sphere.obj",
+  "file_size": 63199,
+  "lamp_count": 1,
+  "linked_files": [],
+  "material_count": 1,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "clink10Zero",
+    "github_repo": "GameEngine"
+  },
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 4,
+  "poly_count": 512,
+  "random_color": null,
+  "save_uid": "9522623c-3480-5bbc-aea9-c9e07ec4b267",
+  "scene_size": {
+    "bbox_max": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bbox_min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ]
+  },
+  "sha256": "b64b9800078f7a5ae8f821cb11a1f858ed1c545ac4bc4c00fa08d2d0303a4556",
+  "shape_key_count": 0,
+  "vert_count": 482
+}

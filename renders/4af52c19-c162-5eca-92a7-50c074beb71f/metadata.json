@@ -1,0 +1,39 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 5664,
+  "file_identifier": "https://github.com/todotoit/ENELFEDeploy/blob/95a894194ed7da96c451f137f6f742f592985d1f/libs/terminalia/assets/models/obj/marrakech_circuit_toon.obj",
+  "file_size": 564961,
+  "lamp_count": 1,
+  "linked_files": [],
+  "material_count": 2,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "todotoit",
+    "github_repo": "ENELFEDeploy"
+  },
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 4,
+  "poly_count": 3776,
+  "random_color": null,
+  "save_uid": "4af52c19-c162-5eca-92a7-50c074beb71f",
+  "scene_size": {
+    "bbox_max": [
+      8.362144470214844,
+      1.1649550199508667,
+      0.2359420508146286
+    ],
+    "bbox_min": [
+      -10.284526824951172,
+      -2.9888999462127686,
+      -1.306489707531e-07
+    ]
+  },
+  "sha256": "d3182fea6d930d423875fd99f84318d2d1bd5b65390e43d6910edf8fc5d287c6",
+  "shape_key_count": 0,
+  "vert_count": 1924
+}

@@ -1,0 +1,44 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 0,
+  "file_identifier": "https://github.com/kiyotchitala/ipynb_pointnet/blob/0c9ce0b1e794eab2c24252c548a7307a02095006/syoumen/takuya/300cm/takuya_human/train_72.ply",
+  "file_size": 433,
+  "lamp_count": 1,
+  "linked_files": [],
+  "material_count": 0,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "kiyotchitala",
+    "github_repo": "ipynb_pointnet"
+  },
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 4,
+  "poly_count": 0,
+  "random_color": [
+    0.4774655631022785,
+    0.847826252213438,
+    0.39285851867601407,
+    1
+  ],
+  "save_uid": "1723ee8e-7908-5a5b-bf1b-70a24ac03d73",
+  "scene_size": {
+    "bbox_max": [
+      307.9554138183594,
+      47.49470138549805,
+      95.0
+    ],
+    "bbox_min": [
+      119.84603881835938,
+      -14.69017505645752,
+      40.0
+    ]
+  },
+  "sha256": "2284f7f0b260323f307536183de514e5a1d58c47d66ad59f1240466ea8ce6f72",
+  "shape_key_count": 0,
+  "vert_count": 12
+}
