@@ -1,0 +1,143 @@
+{
+  "0a5607efc914489290f7cda30bca5acb": {
+    "animationCount": 0,
+    "archives": {
+      "glb": {
+        "faceCount": 156,
+        "size": 14760608,
+        "textureCount": 2,
+        "textureMaxResolution": 2048,
+        "type": "glb",
+        "vertexCount": 312
+      },
+      "gltf": {
+        "faceCount": 156,
+        "size": 14664237,
+        "textureCount": 2,
+        "textureMaxResolution": 2048,
+        "type": "gltf",
+        "vertexCount": 312
+      },
+      "source": {
+        "faceCount": null,
+        "size": 34982677,
+        "textureCount": null,
+        "textureMaxResolution": null,
+        "type": "source",
+        "vertexCount": null
+      },
+      "usdz": {
+        "faceCount": null,
+        "size": 2804063,
+        "textureCount": null,
+        "textureMaxResolution": null,
+        "type": "usdz",
+        "vertexCount": null
+      }
+    },
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2017-11-29T16:49:33.438226",
+    "description": "",
+    "embedUrl": "https://sketchfab.com/models/0a5607efc914489290f7cda30bca5acb/embed",
+    "faceCount": 156,
+    "isAgeRestricted": false,
+    "isDownloadable": true,
+    "license": "by",
+    "likeCount": 0,
+    "name": "Caserne",
+    "publishedAt": "2017-11-29T17:02:20.992130",
+    "staffpickedAt": null,
+    "tags": [
+      {
+        "name": "fs17",
+        "slug": "fs17",
+        "uri": "https://api.sketchfab.com/v3/tags/fs17"
+      },
+      {
+        "name": "caserne",
+        "slug": "caserne",
+        "uri": "https://api.sketchfab.com/v3/tags/caserne"
+      },
+      {
+        "name": "fs17caserne",
+        "slug": "fs17caserne",
+        "uri": "https://api.sketchfab.com/v3/tags/fs17caserne"
+      }
+    ],
+    "thumbnails": {
+      "images": [
+        {
+          "height": 576,
+          "size": 30045,
+          "uid": "eb54b7844a5f473682cb929f9f77a74f",
+          "url": "https://media.sketchfab.com/models/0a5607efc914489290f7cda30bca5acb/thumbnails/5711a65d548a4be0b9e147f360559184/1f8e11e8c7a743bdb0c34cc0c9158e3f.jpeg",
+          "width": 1024
+        },
+        {
+          "height": 405,
+          "size": 14501,
+          "uid": "a158a03042a44720a7c66eac6ae1126d",
+          "url": "https://media.sketchfab.com/models/0a5607efc914489290f7cda30bca5acb/thumbnails/5711a65d548a4be0b9e147f360559184/2cb8aa23926a4673b5c5d0dcd3819337.jpeg",
+          "width": 720
+        },
+        {
+          "height": 144,
+          "size": 2802,
+          "uid": "9eae9fd1dac74224a0fc8bfe5bc4adb8",
+          "url": "https://media.sketchfab.com/models/0a5607efc914489290f7cda30bca5acb/thumbnails/5711a65d548a4be0b9e147f360559184/72e502314dcb4effa067b2635dae27f3.jpeg",
+          "width": 256
+        },
+        {
+          "height": 36,
+          "size": 638,
+          "uid": "50d78bdd1e434f61aed583413746c358",
+          "url": "https://media.sketchfab.com/models/0a5607efc914489290f7cda30bca5acb/thumbnails/5711a65d548a4be0b9e147f360559184/650f0477a47640ac967fac8311eaaf60.jpeg",
+          "width": 64
+        }
+      ]
+    },
+    "uid": "0a5607efc914489290f7cda30bca5acb",
+    "uri": "https://api.sketchfab.com/v3/models/0a5607efc914489290f7cda30bca5acb",
+    "user": {
+      "account": "basic",
+      "avatar": {
+        "images": [
+          {
+            "height": 90,
+            "size": 5719,
+            "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg",
+            "width": 90
+          },
+          {
+            "height": 100,
+            "size": 6496,
+            "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg",
+            "width": 100
+          },
+          {
+            "height": 32,
+            "size": 1359,
+            "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg",
+            "width": 32
+          },
+          {
+            "height": 48,
+            "size": 2584,
+            "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg",
+            "width": 48
+          }
+        ],
+        "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb"
+      },
+      "displayName": "ramirezdu06",
+      "profileUrl": "https://sketchfab.com/ramirezdu06",
+      "uid": "935dec239e154bed8be98cd4c09403a1",
+      "uri": "https://api.sketchfab.com/v3/users/935dec239e154bed8be98cd4c09403a1",
+      "username": "ramirezdu06"
+    },
+    "vertexCount": 104,
+    "viewCount": 56,
+    "viewerUrl": "https://sketchfab.com/3d-models/0a5607efc914489290f7cda30bca5acb"
+  }
+}
